@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "custom.tmpLocation",
+      "type": "java.lang.String",
+      "description": "Description for custom.tmpLocation."
+  }
+] }
